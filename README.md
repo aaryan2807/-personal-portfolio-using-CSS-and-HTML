@@ -4,7 +4,9 @@ This is my personal portfolio website, created to showcase my profile, skills, p
 
 🔥 Features
 ✅ Responsive Design — Works smoothly on desktop and mobile devices.
+
 ✅ Smooth Navigation — Hamburger menu for mobile view.
+
 ✅ About Me Section — Learn about my background and interests.
 ✅ Skills Section — Displays my technical and soft skills.
 ✅ Projects Showcase — Highlights some of my web development projects with GitHub links.
